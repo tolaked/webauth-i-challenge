@@ -23,6 +23,8 @@
     "express": "^4.17.1",
     "helmet": "^3.21.0",
     "knex": "^0.19.4",
+    "connect-session-knex": "^1.5.0",
+    "express-session": "^1.16.2",
     "sqlite3": "^4.1.0"
   },
   "devDependencies": {
